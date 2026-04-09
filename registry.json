@@ -1,0 +1,17 @@
+{
+  "provider_id": "replicate",
+  "name": "Replicate",
+  "primary_model": "various",
+  "models": [
+    "meta/llama-3.3-70b-instruct",
+    "stability-ai/sdxl"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:34:57.129230Z"
+}
